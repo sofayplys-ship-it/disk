@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low polygon Fairy model
+* source:	https://sketchfab.com/3d-models/low-polygon-fairy-model-e50e73874e4749b89957981e9e16221f
+* author:	3dlancer (https://sketchfab.com/3dlancer)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low polygon Fairy model" (https://sketchfab.com/3d-models/low-polygon-fairy-model-e50e73874e4749b89957981e9e16221f) by 3dlancer (https://sketchfab.com/3dlancer) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
