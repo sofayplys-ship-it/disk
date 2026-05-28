@@ -1,0 +1,11 @@
+Model Information:
+* title:	Large Troll
+* source:	https://sketchfab.com/3d-models/large-troll-639795756fb240ddb13971c765a9fbec
+* author:	gnol8x (https://sketchfab.com/gnol8x)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Large Troll" (https://sketchfab.com/3d-models/large-troll-639795756fb240ddb13971c765a9fbec) by gnol8x (https://sketchfab.com/gnol8x) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
